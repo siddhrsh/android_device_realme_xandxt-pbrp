@@ -1,6 +1,6 @@
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),RMX1901)
+ifeq ($(TARGET_DEVICE),Realme_XandXT)
 
 include $(call all-makefiles-under,$(LOCAL_PATH))
 
